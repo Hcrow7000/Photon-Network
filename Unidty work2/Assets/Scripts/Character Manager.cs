@@ -1,17 +1,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Photon.Pun;
+using Photon.Realtime;
 
 public class CharacterManager : MonoBehaviourPunCallbacks
 {
-    [SerializeField] Vector3 direction;
+    [SerializeField] List<Transform> transformList;
+    
     void Start()
     {
+        int index = PhotonNetwork.CurrentRoom.PlayerCount - 1;
+
         PhotonNetwork.Instantiate
-            ("Character", direction,Quaternion.identity);
+            ("Character", transformList[index].position, Quaternion.identity);
 
     }
 
-    
-    
 }
