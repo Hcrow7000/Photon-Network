@@ -9,11 +9,13 @@ public class CharacterManager : MonoBehaviourPunCallbacks
     
     void Start()
     {
-        int index = PhotonNetwork.CurrentRoom.PlayerCount - 1;
+        if (photonView.IsMine)
+        {
+            int index = PhotonNetwork.CurrentRoom.PlayerCount - 1;
 
-        PhotonNetwork.Instantiate
-            ("Character", transformList[index].position, Quaternion.identity);
-
+            PhotonNetwork.Instantiate
+                ("Character", transformList[index].position, Quaternion.identity);
+        }
     }
 
 }

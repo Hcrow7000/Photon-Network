@@ -14,10 +14,10 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     [SerializeField] Dictionary<string, GameObject>
         dictioanry = new Dictionary<string, GameObject>();
 
-    public void CreateRoomPanel()
-    {
-        
-    }
+    //public void CreateRoomPanel()
+    //{
+    //    
+    //}
 
     public void OnCreateRoom()
     {
@@ -39,7 +39,8 @@ public class LobbyManager : MonoBehaviourPunCallbacks
         PhotonNetwork.LoadLevel("Game");
     }
 
-    public override void OnRoomListUpdate(List<RoomInfo> roomList)
+    public override void OnRoomListUpdate
+        (List<RoomInfo> roomList)
     {
         GameObject prefab = null;
 

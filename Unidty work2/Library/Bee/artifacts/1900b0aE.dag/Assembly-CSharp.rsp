@@ -386,6 +386,7 @@
 "Assets/Scripts/Character Manager.cs"
 "Assets/Scripts/Character.cs"
 "Assets/Scripts/Cursors.cs"
+"Assets/Scripts/Dialog Manager.cs"
 "Assets/Scripts/Game Manager.cs"
 "Assets/Scripts/Head.cs"
 "Assets/Scripts/Information.cs"
