@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Photon.Pun;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class Character : MonoBehaviourPun
 {
@@ -30,6 +31,13 @@ public class Character : MonoBehaviourPun
     {
         if (photonView.IsMine)
         {
+            // Ui에 포커스가 있다면 입력을 무시
+            if(EventSystem.current.
+                currentSelectedGameObject != null)
+            {
+                return;
+            }
+
             Control();
 
             Move();
