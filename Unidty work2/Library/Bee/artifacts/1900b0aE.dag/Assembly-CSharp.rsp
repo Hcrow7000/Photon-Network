@@ -391,6 +391,7 @@
 "Assets/Scripts/Head.cs"
 "Assets/Scripts/Information.cs"
 "Assets/Scripts/Lobby Manager.cs"
+"Assets/Scripts/Master Manager.cs"
 "Assets/Scripts/Playfab Manager.cs"
 -langversion:9.0
 /deterministic
