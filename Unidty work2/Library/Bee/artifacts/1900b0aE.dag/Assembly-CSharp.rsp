@@ -393,6 +393,7 @@
 "Assets/Scripts/Lobby Manager.cs"
 "Assets/Scripts/Master Manager.cs"
 "Assets/Scripts/Playfab Manager.cs"
+"Assets/Scripts/ProFile Manager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

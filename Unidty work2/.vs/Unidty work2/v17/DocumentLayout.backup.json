@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\master manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\master manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9DE038-4231-DAD1-FA35-8AD6B5A0FA33}|PhotonUnityNetworking.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\photon\\photonunitynetworking\\code\\punclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9DE038-4231-DAD1-FA35-8AD6B5A0FA33}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\punclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\cursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,10 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C9DE038-4231-DAD1-FA35-8AD6B5A0FA33}|PhotonUnityNetworking.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C9DE038-4231-DAD1-FA35-8AD6B5A0FA33}|PhotonUnityNetworking.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\code\\photonnetworkpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,11 +49,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Master Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Master Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Master Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Master Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Master Manager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:11:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:34:48.907Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:20:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Manager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:34:26.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Information.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Information.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Information.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Information.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:25:16.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Dialog Manager.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Dialog Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog Manager.cs",
@@ -57,49 +123,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Dialog Manager.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:08:30.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T09:08:30.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Character Manager.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Character Manager.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Character Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:34:48.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Character.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:20:14.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PunClasses.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PunClasses.cs",
-              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PunClasses.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PunClasses.cs",
-              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PunClasses.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAA3wCQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:40:29.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Cursors.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Cursors.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cursors.cs",
@@ -111,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Head.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Head.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Head.cs",
@@ -123,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Mouse Manager.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Endless-Runner\\game2\\Assets\\Scripts\\Mouse Manager.cs",
               "RelativeDocumentMoniker": "..\\..\\Endless-Runner\\game2\\Assets\\Scripts\\Mouse Manager.cs",
@@ -135,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PhotonNetworkPart.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
               "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Code\\PhotonNetworkPart.cs",
@@ -144,18 +172,6 @@
               "ViewState": "AgIAAHEJAAAAAAAAAAAvwIQJAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T10:06:58.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Information.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Information.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Information.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Information.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Information.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:25:16.431Z"
             }
           ]
         }
