@@ -1,25 +1,21 @@
-using System.Collections;
-using System.Collections.Generic;
 using Photon.Pun;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class Character : MonoBehaviourPun
 {
     [SerializeField] float speed;
-    [SerializeField] float rotationSpeed;
     [SerializeField] float mouseX;
-    
+    [SerializeField] float rotationSpeed;
+
+    [SerializeField] Vector3 direction;
+
     [SerializeField] Camera virtualCamera;
     [SerializeField] CharacterController characterController;
-    
-    [SerializeField] Vector3 direction; 
 
     private void Awake()
     {
-        characterController = 
-            GetComponent<CharacterController>();
+        characterController = GetComponent<CharacterController>();
     }
 
     void Start()
@@ -31,9 +27,8 @@ public class Character : MonoBehaviourPun
     {
         if (photonView.IsMine)
         {
-            // Ui에 포커스가 있다면 입력을 무시
-            if(EventSystem.current.
-                currentSelectedGameObject != null)
+            // UI에 포커스가 있다면 입력을 무시합니다.
+            if (EventSystem.current.currentSelectedGameObject != null)
             {
                 return;
             }
@@ -53,48 +48,33 @@ public class Character : MonoBehaviourPun
 
         direction.Normalize();
 
-        // mouseX에 마우스로 입력한 값을 저장함
-
-        mouseX += Input.GetAxisRaw
-            ("Mouse X") * rotationSpeed * Time.deltaTime;
-
-        characterController.transform.
-            TransformDirection(direction);
-
+        // mouseX에 마우스로 입력한 값을 저장합니다.
+        mouseX += Input.GetAxisRaw("Mouse X") * rotationSpeed * Time.deltaTime;
     }
-    
+
     public void Move()
     {
-        // 방향 * 속도 * 시간 
-        characterController.Move
-            (characterController.transform.TransformDirection
-            (direction) * speed * Time.deltaTime);
-
+        // 방향 * 속도 * 시간
+        characterController.Move(characterController.transform.TransformDirection(direction) * speed * Time.deltaTime);
     }
 
     public void Rotate()
     {
-        transform.eulerAngles = 
-            new Vector3(0,mouseX,0);
+        transform.eulerAngles = new Vector3(0, mouseX, 0);
     }
 
     public void DisableCamera()
     {
-        //현재 플레이어가 나라면
+        // 현재 플레이어가 나 자신이라면
         if (photonView.IsMine)
         {
             Camera.main.gameObject.SetActive(false);
         }
         else
         {
-            virtualCamera.gameObject.SetActive(true);
+            virtualCamera.gameObject.SetActive(false);
 
-            virtualCamera.GetComponent
-                <AudioListener>().enabled = false;
-
+            virtualCamera.GetComponent<AudioListener>().enabled = false;
         }
-
     }
-
-
 }

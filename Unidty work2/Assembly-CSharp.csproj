@@ -76,10 +76,12 @@
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\FriendItem.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs" />
+    <Compile Include="Assets\Scripts\Failured.cs" />
     <Compile Include="Assets\Scripts\ProFile Manager.cs" />
     <Compile Include="Assets\Scripts\Master Manager.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
     <Compile Include="Assets\Scripts\Information.cs" />
+    <Compile Include="Assets\Scripts\Identifiers.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\TextButtonTransition.cs" />
     <Compile Include="Assets\Scripts\Playfab Manager.cs" />
     <Compile Include="Assets\Scripts\Head.cs" />

@@ -21,6 +21,7 @@ public class Head : MonoBehaviourPunCallbacks
         // mouseX에 마우스로 입력한 값을 저장합니다.
         mouseX += Input.GetAxisRaw
             ("Mouse Y") * speed * Time.deltaTime;
+
         // mouseX의 값을 -65 ~ 65 사이의 값으로 제한한다.
         mouseX = Mathf.Clamp(mouseX,-65,65);
 
