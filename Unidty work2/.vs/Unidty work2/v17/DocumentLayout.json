@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\lobby manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobby manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|c:\\users\\juno0\\desktop\\unity work 2\\unidty work2\\assets\\scripts\\playfab manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playfab manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\master manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\profile manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{487741D1-080B-C541-EBDF-46083EE7E276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game Manager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:34:26.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:34:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:20:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lobby Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Lobby Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lobby Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Lobby Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lobby Manager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:06:52.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Dialog Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Dialog Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Dialog Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialog Manager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:08:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Playfab Manager.cs",
+              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Playfab Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playfab Manager.cs",
+              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Playfab Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playfab Manager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:08:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Head.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Head.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Head.cs",
@@ -62,20 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game Manager.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game Manager.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Game Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game Manager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T10:34:26.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Master Manager.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Master Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Master Manager.cs",
@@ -83,25 +156,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Master Manager.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T09:11:22.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T09:11:22.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Character.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Character.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAUwEcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T09:20:14.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Failured.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Failured.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Failured.cs",
@@ -113,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ProFile Manager.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\ProFile Manager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProFile Manager.cs",
@@ -125,19 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Character Manager.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Character Manager.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Character Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Character Manager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:34:48.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Information.cs",
               "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Information.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Information.cs",
@@ -146,18 +193,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T09:25:16.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dialog Manager.cs",
-              "DocumentMoniker": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Dialog Manager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog Manager.cs",
-              "ToolTip": "C:\\Users\\juno0\\Desktop\\Unity work 2\\Unidty work2\\Assets\\Scripts\\Dialog Manager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Dialog Manager.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:08:30.686Z"
             }
           ]
         }

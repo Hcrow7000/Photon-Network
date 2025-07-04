@@ -21,11 +21,28 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     void Start()
     {
-        initializeTime = PhotonNetwork.Time;
+        if (photonView.IsMine)
+        {
+            SetCursor(false);
+        }
 
-        SetCursor(false);
+        if (PhotonNetwork.IsMasterClient)
+        {
+            initializeTime = PhotonNetwork.Time;
+
+            photonView.RPC
+                ("InittializeTime", RpcTarget
+                .AllBuffered, initializeTime);
+        }
+        
     }
-    
+
+    [PunRPC]
+
+    void InitializeTime(double time)
+    {
+        initializeTime = time;
+    }
     void Update()
     {
        time = PhotonNetwork.Time - initializeTime;
@@ -44,6 +61,17 @@ public class GameManager : MonoBehaviourPunCallbacks
 
                 pasuePanel.SetActive(true);
             }
+        }
+    }
+
+    public override void OnPlayerEnteredRoom(Player newPlayer)
+    {
+        if(PhotonNetwork.CurrentRoom.PlayerCount 
+            >= PhotonNetwork.CurrentRoom.MaxPlayers)
+        {
+            Debug.Log("Start");
+
+            PhotonNetwork.CurrentRoom.IsOpen = false;
         }
     }
 
@@ -82,8 +110,10 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     private void OnDestroy()
     {
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
+        if (photonView.IsMine)
+        {
+            SetCursor(true);
+        }
     }
 
 }

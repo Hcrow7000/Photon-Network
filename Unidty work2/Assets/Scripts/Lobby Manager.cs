@@ -14,10 +14,14 @@ public class LobbyManager : MonoBehaviourPunCallbacks
     [SerializeField] Dictionary<string, GameObject>
         dictioanry = new Dictionary<string, GameObject>();
 
-    //public void CreateRoomPanel()
-    //{
-    //    
-    //}
+    public override void OnConnectedToMaster()
+    {
+        if (PhotonNetwork.InLobby == false) 
+        {  
+
+            PhotonNetwork.JoinLobby();
+        }
+    }
 
     public void OnCreateRoom()
     {
